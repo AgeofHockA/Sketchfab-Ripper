@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="340" src="https://repuls.io/img/logo-main.png" alt="Repuls-Client - Made by Nexi2k" align="center">
+  <img width="340" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo-text.png" alt="Sketchfab-Ripper - Made by Roro" align="center">
 </p>
 
  <p align="center">
