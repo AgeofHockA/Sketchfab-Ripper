@@ -18,7 +18,7 @@ Download any 3d premium model from Sketchfab... for Free!
 # Sketchfab/ArtStation Ripper #
 
 ## Links: ##
-- Discord: ~~https://discord.gg/fB4mr3q48D~~ - Currently unavailable since the #sketchfab channel was deleted. If this tool is ever released elsewhere, the link in the tool's About screen (located in the options window) will automatically update.
+- Discord: My personal discord server https://discord.gg/ReUnrvfdXa - Currently unavailable since the #sketchfab channel was deleted. If this tool is ever released elsewhere, the link in the tool's About screen (located in the options window) will automatically update.
 - Version archive (does not include beta releases): https://mega.nz/folder/D1lRQY4L#_QHmdjEgAg4wMo-1vAZw6w
 
 ## Notes: ##
